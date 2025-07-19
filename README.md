@@ -8,4 +8,4 @@ The website is built with clean HTML, CSS, and JavaScript, designed to be respon
 
 You can view the live version of my portfolio here:
 
-**[https://acqulene.netlify.app/]
+## https://acqulene.netlify.app/
